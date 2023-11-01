@@ -1,0 +1,14 @@
+Purchase Order ID: 
+
+Items in list: 
+Item Code:1976     
+Item Name: Addy Fresh Milk 
+Unit Price: 17.0
+Quantity: 10
+Total Price: 170.0
+
+Total Sum: 170.0
+
+Sales Tax: 10.2
+
+Total Amount: 180.2

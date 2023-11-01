@@ -1,0 +1,9 @@
+Purchase Order ID/Purchaser Name/Purchaser Address/Recipient Name/Recipient Address/Requisitioner/Item Code/Item Name/Unit Price/Quantity/Total price/Sub Total/Sales Tax/Total Amount
+
+PO1234/JOVIE/12. JALAN GEMBIRA 7/JOANNA/9-B, JALAN KAWAN /GIGA/2009     /Vivigen Yougurt /10.0/10/100.0/304.0/18.24/322.24
+
+PO1234/JOVIE/12. JALAN GEMBIRA 7/JOANNA/9-B, JALAN KAWAN /GIGA/1976     /Addy Fresh Milk /17.0/12/204.0/304.0/18.24/322.24
+
+PO0000/JOVIE/12. JALAN GEMBIRA 7/JOANNA/9-B, JALAN KAWAN /GIGA/1976     /Addy Fresh Milk /17.0/12/204.0/304.0/18.24/322.24
+
+
